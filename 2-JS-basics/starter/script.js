@@ -159,8 +159,8 @@ if (isMarried) {
     console.log(firstName + ' will hopefully marry soon :)');
 }
 
-var massJohn = 92; // kg
-var massMark = 78; // kg
+var massJohn = 92; // kgs
+var massMark = 78; // kgs
 var heightJohn = 1.95; // meters
 var heightMark = 1.69; // meters
 
